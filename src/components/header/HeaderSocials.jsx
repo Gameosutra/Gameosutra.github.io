@@ -6,20 +6,20 @@ import {
     FaGithub
 } from 'react-icons/fa'
 import {
-    FiDribbble
-} from 'react-icons/fi'
+    BsTwitter
+} from 'react-icons/bs'
 
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-        <a href="https://linkedin.com" target="_blank">
+        <a href="https://www.linkedin.com/in/manushivam/" target="_blank" rel="noreferrer">
             <BsLinkedin />
         </a>
-        <a href="https://github.com" target="_blank">
+        <a href="https://github.com/Gameosutra" target="_blank" rel="noreferrer">
             <FaGithub />
         </a>
-        <a href="https://dribb.com" target="_blank">
-            <FiDribbble />
+        <a href="https://twitter.com/ManushivamM" target="_blank" rel="noreferrer">
+            <BsTwitter />
         </a>
     </div>
   )

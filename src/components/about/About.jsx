@@ -38,7 +38,7 @@ const About = () => {
 
           <p>
           Hello! I am Manushivam Maheshwari. Currently working 
-          <a href="https://housing.com" target='_blank'> @Housing.com</a> as a Frontend Engineer.
+          <a href="https://housing.com" target='_blank' rel="noreferrer"> @Housing.com</a> as a Frontend Engineer.
           <br/>I have always been interested in new technologies. I am Always up for innovative hardware and software solutions. 
           Challenging position with a creative work environment to enhance expertise in Frontend/Full stack Engineering.
           </p>

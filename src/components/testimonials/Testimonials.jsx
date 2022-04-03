@@ -42,7 +42,7 @@ const testimonialData = [
 
 const Testimonials = () => {
   return (
-    <section id='testimonals'>
+    <section id='quotes'>
       <h5>Words from Famous People</h5>
       <h2>Inspiring Quotes</h2>
       <Swiper 
