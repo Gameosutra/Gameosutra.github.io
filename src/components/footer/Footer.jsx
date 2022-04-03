@@ -12,16 +12,15 @@ const Footer = () => {
         <li><a href="#">Home</a></li>
         <li> <a href="#about">About</a></li>
         <li><a href="#experience">Experiences</a></li>
-        <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonals">Testimonials</a></li>
+        <li><a href="#quotes">Quotes</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FiInstagram/></a>
-        <a href="https://twitter.com"><IoLogoTwitter /></a>
+        <a href="https://www.facebook.com/manne.1402/" target="_blank" rel="noreferrer"><FaFacebookF/></a>
+        <a href="https://www.instagram.com/manushivam_2174/" target="_blank" rel="noreferrer"><FiInstagram/></a>
+        <a href="https://twitter.com/ManushivamM" target="_blank" rel="noreferrer"><IoLogoTwitter /></a>
       </div>
 
       <div className="footer__copyright">

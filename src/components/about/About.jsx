@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/m3.jpeg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -27,19 +27,20 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>10+ Worldwide</small>
+              <small>10+ in India</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>20+ Completed</small>
+              <small>15+ Completed</small>
             </article>
           </div>
 
           <p>
-          To utilize my knowledge and skills towards a task assigned to me with best of my ability and to work dedicatedly towards the success of
-          my organization and trying my best for the respect of organization and earning good reputation with whom I work, always keeping in
-          mind the goals of the organization as the prime objective.
+          Hello! I am Manushivam Maheshwari. Currently working 
+          <a href="https://housing.com" target='_blank' rel="noreferrer"> @Housing.com</a> as a Frontend Engineer.
+          <br/>I have always been interested in new technologies. I am Always up for innovative hardware and software solutions. 
+          Challenging position with a creative work environment to enhance expertise in Frontend/Full stack Engineering.
           </p>
 
           <a href="#contact" className='btn btn-primary'>
