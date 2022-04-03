@@ -24,7 +24,7 @@ const Nav = () => {
       <a href="#" className={returnValue("#")} onClick={() => setActiveNow('#')}><AiOutlineHome /></a>
       <a href="#about" className={returnValue("about")} onClick={() => setActiveNow('about')}><AiOutlineUser /></a>
       <a href="#experience" className={returnValue("experience")} onClick={() => setActiveNow('experience')}><BiBook /></a>
-      <a href="#services" className={returnValue("services")} onClick={() => setActiveNow('services')}><RiServiceLine /></a>
+      <a href="#testimonals" className={returnValue("testimonals")} onClick={() => setActiveNow('testimonals')}><RiServiceLine /></a>
       <a href="#contact" className={returnValue("contact")} onClick={() => setActiveNow('contact')}><BiMessageSquareDetail /></a>
     </nav>
   )
