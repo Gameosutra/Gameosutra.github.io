@@ -12,6 +12,10 @@
     transition: var(--transtion);
 }
 
+.portfolio__item-title span {
+    font-weight: 600;
+}
+
 .portfolio__items:hover {
     border-color: var(--color-primary-variant);
     background: transparent;
@@ -20,6 +24,8 @@
 .portfolio__item-image {
     border-radius: 1.5rem;
     overflow: hidden;
+    height: auto;
+    width: 100%;
 }
 
 .portfolio__items h3 {

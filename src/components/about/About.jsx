@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
@@ -38,8 +38,8 @@ const About = () => {
 
           <p>
           Hello! I am Manushivam Maheshwari. Currently working 
-          <a href="https://housing.com" target='_blank' rel="noreferrer"> @Housing.com</a> as a Frontend Engineer.
-          <br/>I have always been interested in new technologies. I am Always up for innovative hardware and software solutions. 
+          <a href="https://coindcx.com" target='_blank' rel="noreferrer"> @Coindcx.com</a> as a Sr. Frontend Engineer.
+          <br/>I have always been interested in new technologies. I am always up for innovative hardware and software solutions. 
           Challenging position with a creative work environment to enhance expertise in Frontend/Full stack Engineering.
           </p>
 
